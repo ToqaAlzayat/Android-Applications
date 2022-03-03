@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">المزرعة</string>
+    <string name="user">User</string>
+    <string name="password">Password</string>
+    <string name="title_activity_registration">registration</string>
+    <string name="tab_text_1">New</string>
+    <string name="tab_text_2">Update</string>
+    <string name="tab_text_3">Delete</string>
+    <string name="role">Role</string>
+    <string name="own">Own</string>
+    <string name="title_activity_farm">farm</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="farm_name">Farm Name</string>
+    <string name="sector">Sector</string>
+    <string name="activity_code">Activity Code</string>
+    <string name="activity">Activity</string>
+    <string name="date">Date</string>
+    <string name="num_of_labor">No. Of Labor</string>
+    <string name="unit">Unit Rate Labor</string>
+    <string name="total">Total</string>
+
+</resources>

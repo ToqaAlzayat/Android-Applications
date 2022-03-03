@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/gray"
+    tools:context=".delete_farm">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/farm_name"
+            style="@style/customStyle"/>
+        <EditText
+            android:id="@+id/edt_delete_farm_name"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:textColor="@color/navy"
+            android:layout_margin="10dp"/>
+        <ImageButton
+            android:id="@+id/ib_delete_farm_refresh"
+            android:layout_width="46dp"
+            android:layout_height="45dp"
+            android:layout_margin="10dp"
+            android:background="@drawable/arrow" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/sector"
+            style="@style/customStyle"/>
+        <EditText
+            android:id="@+id/edt_delete_sector"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/navy"
+            android:layout_margin="10dp"/>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btn_delete_new_farm"
+        style="@style/Button_Style"
+        android:layout_gravity="center"
+        android:text="delete"
+        />
+</LinearLayout>

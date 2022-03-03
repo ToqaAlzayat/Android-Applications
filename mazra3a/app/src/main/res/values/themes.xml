@@ -1,0 +1,41 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Mazra3a" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/navy</item>
+        <item name="colorPrimaryVariant">@color/navy</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/navy</item>
+        <item name="colorSecondaryVariant">@color/navy</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="customStyle">
+        <item name="android:textColor">@color/navy</item>
+        <item name="android:layout_margin">18dp</item>
+        <item name="android:textSize">18dp</item>
+    </style>
+
+    <style name="Button_Style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">30dp</item>
+        <item name="backgroundTint">@color/navy</item>
+        <item name="android:textColor">@color/gray</item>
+        <item name="android:textSize">18dp</item>
+    </style>
+
+    <style name="Theme.Mazra3a.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.Mazra3a.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.Mazra3a.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>

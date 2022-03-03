@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mazra3a">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/icon"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Mazra3a">
+        <activity
+            android:name=".labor"
+            android:exported="true" />
+        <activity
+            android:name=".labor_distribution"
+            android:exported="true" />
+        <activity
+            android:name=".activity"
+            android:exported="true" />
+        <activity
+            android:name=".farm"
+            android:exported="true" />
+        <activity
+            android:name=".opening_screen"
+            android:exported="true" />
+        <activity
+            android:name=".registration"
+            android:exported="true"
+            android:label="@string/title_activity_registration"
+            android:theme="@style/Theme.Mazra3a.NoActionBar" />
+        <activity
+            android:name=".login"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

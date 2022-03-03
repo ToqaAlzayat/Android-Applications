@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/andriod_apps/mazra3a/app/src/main/res/layout/activity_.xml" value="0.10144927536231885" />
+        <entry key="..\:/andriod_apps/mazra3a/app/src/main/res/layout/activity_farm.xml" value="0.18" />
+        <entry key="..\:/andriod_apps/mazra3a/app/src/main/res/layout/activity_labor.xml" value="0.10144927536231885" />
+        <entry key="..\:/andriod_apps/mazra3a/app/src/main/res/layout/activity_labor_distribution.xml" value="0.33" />
+        <entry key="..\:/andriod_apps/mazra3a/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/andriod_apps/mazra3a/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/andriod_apps/mazra3a/app/src/main/res/layout/activity_opening_screen.xml" value="0.22" />
+        <entry key="..\:/andriod_apps/mazra3a/app/src/main/res/layout/activity_registration.xml" value="0.2" />
+        <entry key="..\:/andriod_apps/mazra3a/app/src/main/res/layout/delete_layout.xml" value="0.1272644927536232" />
+        <entry key="..\:/andriod_apps/mazra3a/app/src/main/res/layout/fragment_delete_account.xml" value="0.12771739130434784" />
+        <entry key="..\:/andriod_apps/mazra3a/app/src/main/res/layout/fragment_delete_activity.xml" value="0.19635416666666666" />
+        <entry key="..\:/andriod_apps/mazra3a/app/src/main/res/layout/fragment_delete_farm.xml" value="0.19635416666666666" />
+        <entry key="..\:/andriod_apps/mazra3a/app/src/main/res/layout/fragment_delete_labor.xml" value="0.19635416666666666" />
+        <entry key="..\:/andriod_apps/mazra3a/app/src/main/res/layout/fragment_farm.xml" value="0.11503623188405797" />
+        <entry key="..\:/andriod_apps/mazra3a/app/src/main/res/layout/fragment_main.xml" value="0.12771739130434784" />
+        <entry key="..\:/andriod_apps/mazra3a/app/src/main/res/layout/fragment_new_account.xml" value="0.25" />
+        <entry key="..\:/andriod_apps/mazra3a/app/src/main/res/layout/fragment_new_activity.xml" value="0.19635416666666666" />
+        <entry key="..\:/andriod_apps/mazra3a/app/src/main/res/layout/fragment_new_farm.xml" value="0.25" />
+        <entry key="..\:/andriod_apps/mazra3a/app/src/main/res/layout/fragment_new_labor.xml" value="0.22" />
+        <entry key="..\:/andriod_apps/mazra3a/app/src/main/res/layout/fragment_registration.xml" value="0.1272644927536232" />
+        <entry key="..\:/andriod_apps/mazra3a/app/src/main/res/layout/fragment_update_account.xml" value="0.33" />
+        <entry key="..\:/andriod_apps/mazra3a/app/src/main/res/layout/fragment_update_activity.xml" value="0.19635416666666666" />
+        <entry key="..\:/andriod_apps/mazra3a/app/src/main/res/layout/fragment_update_farm.xml" value="0.19635416666666666" />
+        <entry key="..\:/andriod_apps/mazra3a/app/src/main/res/layout/fragment_update_labor.xml" value="0.19635416666666666" />
+        <entry key="..\:/andriod_apps/mazra3a/app/src/main/res/layout/new_layout.xml" value="0.1272644927536232" />
+        <entry key="..\:/andriod_apps/mazra3a/app/src/main/res/layout/update_layout.xml" value="0.1272644927536232" />
+        <entry key="..\:/andriod_apps/mazra3a/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2125" />
+        <entry key="..\:/andriod_apps/mazra3a/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
